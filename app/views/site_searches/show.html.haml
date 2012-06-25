@@ -1,0 +1,18 @@
+%p#notice= notice
+
+%p
+  %b Site:
+  = @site_search.site_id
+%p
+  %b Search run on:
+  = @site_search.search_run_on
+%p
+  %b Number of results requested:
+  = @site_search.number_of_results_requested
+%p
+  %b Results params:
+  = @site_search.results_params
+
+= link_to 'Edit', edit_site_search_path(@site_search)
+\|
+= link_to 'Back', site_searches_path

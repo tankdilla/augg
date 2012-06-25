@@ -1,0 +1,18 @@
+%p#notice= notice
+
+%p
+  %b Description:
+  = @site.description
+%p
+  %b Url:
+  = @site.url
+%p
+  %b Search string:
+  = @site.search_string
+%p
+  %b Parse code:
+  = @site.parse_code
+
+= link_to 'Edit', edit_site_path(@site)
+\|
+= link_to 'Back', sites_path

@@ -1,0 +1,25 @@
+%h1 Listing site_searches
+
+%table
+  %tr
+    %th Site
+    %th Search run on
+    %th Number of results requested
+    %th Results params
+    %th
+    %th
+    %th
+
+  - @site_searches.each do |site_search|
+    %tr
+      %td= site_search.site_id
+      %td= site_search.search_run_on
+      %td= site_search.number_of_results_requested
+      %td= site_search.results_params
+      %td= link_to 'Show', site_search
+      %td= link_to 'Edit', edit_site_search_path(site_search)
+      %td= link_to 'Destroy', site_search, :confirm => 'Are you sure?', :method => :delete
+
+%br
+
+= link_to 'New Site search', new_site_search_path

@@ -1,0 +1,7 @@
+%p
+  Trends as of
+  = @doc["as_of"]
+- @doc["trends"].each do |trend|
+  %ul
+    %li
+      = link_to trend["name"], search_trends_url(:trend=>trend["name"])

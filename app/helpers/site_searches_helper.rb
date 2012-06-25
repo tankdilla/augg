@@ -1,0 +1,2 @@
+module SiteSearchesHelper
+end

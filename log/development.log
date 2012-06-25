@@ -1,0 +1,467 @@
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 11:51:10 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (2.0ms)
+Compiled application.css  (4ms)  (pid 9424)
+Compiled topics.css  (13ms)  (pid 9424)
+Compiled application.js  (14ms)  (pid 9424)
+Compiled topics.js  (14654ms)  (pid 9424)
+Completed 200 OK in 16389ms (Views: 15412.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-30 11:51:41 -0600
+Served asset /application.css - 200 OK (1ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-01-30 11:51:41 -0600
+Served asset /topics.js - 200 OK (28ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-01-30 11:51:41 -0600
+Served asset /topics.css - 200 OK (9ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-30 11:51:41 -0600
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 11:52:13 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 254ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-30 11:52:14 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-01-30 11:52:14 -0600
+Served asset /topics.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-01-30 11:52:14 -0600
+Served asset /topics.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-30 11:52:14 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 11:52:32 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (2.0ms)
+Completed 200 OK in 226ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-01-30 11:52:32 -0600
+Served asset /topics.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-30 11:52:32 -0600
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-01-30 11:52:32 -0600
+Served asset /topics.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-30 11:52:32 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 12:07:44 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 299ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-30 12:07:45 -0600
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-01-30 12:07:45 -0600
+Served asset /topics.css - 200 OK (0ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-01-30 12:07:45 -0600
+Served asset /topics.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-30 12:07:45 -0600
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 12:45:54 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 323ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-30 12:45:55 -0600
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-01-30 12:45:55 -0600
+Served asset /topics.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-30 12:45:55 -0600
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-01-30 12:45:55 -0600
+Served asset /topics.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 17:04:46 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (9.0ms)
+Completed 200 OK in 3190ms (Views: 145.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-30 17:04:52 -0600
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-01-30 17:04:52 -0600
+Served asset /topics.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-01-30 17:04:52 -0600
+Served asset /topics.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-30 17:04:52 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-31 09:56:31 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 1540ms (Views: 678.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-01-31 09:56:47 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-01-31 09:56:47 -0600
+Served asset /topics.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-01-31 09:56:47 -0600
+Served asset /topics.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-01-31 09:56:47 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 15:19:02 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 1589ms (Views: 675.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-06 15:19:18 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-02-06 15:19:18 -0600
+Served asset /topics.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-02-06 15:19:18 -0600
+Served asset /topics.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-06 15:19:18 -0600
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 20:13:41 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (21.0ms)
+Completed 200 OK in 2395ms (Views: 241.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-06 20:13:46 -0600
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-02-06 20:13:46 -0600
+Served asset /topics.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-02-06 20:13:46 -0600
+Served asset /topics.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-06 20:13:46 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:35:02 -0600
+  Processing by TopicsController#index as HTML
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+Completed 500 Internal Server Error in 385ms
+
+SyntaxError (C:/apps/my_apps/augg/app/models/source.rb:46: syntax error, unexpected ']', expecting tASSOC
+  	      results << {:link] => element["data"]["url"], :...
+  	                        ^
+C:/apps/my_apps/augg/app/models/source.rb:46: syntax error, unexpected ']', expecting tCOLON2 or '[' or '.'
+...element["data"]["url"], :title] => element["data"]["title"]}
+...                               ^
+C:/apps/my_apps/augg/app/models/source.rb:46: syntax error, unexpected '}', expecting keyword_end
+C:/apps/my_apps/augg/app/models/source.rb:58: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/topics_controller.rb:19:in `block in index'
+  app/controllers/topics_controller.rb:17:in `each'
+  app/controllers/topics_controller.rb:17:in `index'
+
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (20.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (98.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:38:58 -0600
+  Processing by TopicsController#index as HTML
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+Completed 500 Internal Server Error in 357ms
+
+NameError (undefined local variable or method `search_string' for Source:Class):
+  app/models/source.rb:17:in `query'
+  app/controllers/topics_controller.rb:19:in `block in index'
+  app/controllers/topics_controller.rb:17:in `each'
+  app/controllers/topics_controller.rb:17:in `index'
+
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:40:00 -0600
+  Processing by TopicsController#index as HTML
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+Completed 500 Internal Server Error in 953ms
+
+TypeError (can't convert StringIO into String):
+  app/models/source.rb:17:in `query'
+  app/controllers/topics_controller.rb:19:in `block in index'
+  app/controllers/topics_controller.rb:17:in `each'
+  app/controllers/topics_controller.rb:17:in `index'
+
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:40:18 -0600
+  Processing by TopicsController#index as HTML
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+Rendered topics/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 117103ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:42:15 -0600
+  Processing by TopicsController#index as HTML
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:44:50 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (4.0ms)
+Completed 200 OK in 194309ms (Views: 680.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-06 22:48:20 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-02-06 22:48:20 -0600
+Served asset /topics.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-02-06 22:48:20 -0600
+Served asset /topics.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-06 22:48:20 -0600
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:49:49 -0600
+  Processing by TopicsController#index as HTML
+Completed 500 Internal Server Error in 72298ms
+
+SyntaxError (C:/apps/my_apps/augg/app/models/source.rb:46: syntax error, unexpected ']', expecting tASSOC
+            results << {:link] => element["data"]["url"], :...
+                              ^
+C:/apps/my_apps/augg/app/models/source.rb:46: syntax error, unexpected ']', expecting tCOLON2 or '[' or '.'
+...element["data"]["url"], :title] => element["data"]["title"]}
+...                               ^
+C:/apps/my_apps/augg/app/models/source.rb:46: syntax error, unexpected '}', expecting keyword_end
+C:/apps/my_apps/augg/app/models/source.rb:58: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/topics_controller.rb:19:in `block in index'
+  app/controllers/topics_controller.rb:17:in `each'
+  app/controllers/topics_controller.rb:17:in `index'
+
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-02-06 22:51:59 -0600
+  Processing by TopicsController#index as HTML
+Rendered topics/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 58403ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-06 22:52:58 -0600
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-02-06 22:52:58 -0600
+Served asset /topics.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-02-06 22:52:58 -0600
+Served asset /topics.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-06 22:52:58 -0600
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-29 17:03:55 -0500
+  Processing by TrendsController#index as HTML
+Completed 500 Internal Server Error in 514ms
+
+NameError (undefined local variable or method `string' for Source:Class):
+  app/models/source.rb:13:in `get_chicago_trends_json_doc'
+  app/controllers/trends_controller.rb:15:in `index'
+
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (131.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby192-p290/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (235.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-29 17:04:59 -0500
+  Processing by TrendsController#index as HTML
+Rendered trends/index.html.haml within layouts/application (9.0ms)
+Completed 200 OK in 1288ms (Views: 209.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-29 17:05:00 -0500
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-03-29 17:05:00 -0500
+Served asset /topics.js - 200 OK (5ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-03-29 17:05:00 -0500
+Served asset /topics.css - 200 OK (5ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-29 17:05:00 -0500
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-30 08:17:25 -0500
+  Processing by TrendsController#index as HTML
+Rendered trends/index.html.haml within layouts/application (5.0ms)
+Completed 200 OK in 429ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-30 08:17:32 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-03-30 08:17:32 -0500
+Served asset /topics.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-30 08:17:32 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-03-30 08:17:33 -0500
+Served asset /topics.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-30 16:06:42 -0500
+  Processing by TrendsController#index as HTML
+Rendered trends/index.html.haml within layouts/application (186.0ms)
+Completed 200 OK in 1764ms (Views: 443.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-30 16:06:50 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-30 16:06:50 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.css?body=1" for 127.0.0.1 at 2012-03-30 16:06:50 -0500
+Served asset /topics.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topics.js?body=1" for 127.0.0.1 at 2012-03-30 16:06:50 -0500
+Served asset /topics.js - 304 Not Modified (0ms)
+  [1m[36m (0.0ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (8.0ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (33.0ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateFeeds (20120127180820)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (2.0ms)[0m  [1mCREATE TABLE "feeds" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "description" varchar(255), "uri" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20120127180820')
+  [1m[36m (20.0ms)[0m  [1mcommit transaction[0m
+Migrating to CreateSites (20120625171810)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (2.0ms)[0m  [1mCREATE TABLE "sites" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "description" varchar(255), "url" varchar(255), "search_string" varchar(255), "parse_code" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20120625171810')
+  [1m[36m (16.0ms)[0m  [1mcommit transaction[0m
+Migrating to CreateSiteSearches (20120625172514)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mCREATE TABLE "site_searches" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "site_id" integer, "search_run_on" datetime, "number_of_results_requested" integer, "results_params" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (0.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20120625172514')
+  [1m[36m (42.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (1.0ms)[0m  select sqlite_version(*)
+  [1m[36m (1.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.0ms)[0m  PRAGMA index_list("feeds")
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("site_searches")[0m
+  [1m[35m (0.0ms)[0m  PRAGMA index_list("sites")
+  [1m[36m (0.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateFeeds (20120127180820)
+Migrating to CreateSites (20120625171810)
+Migrating to CreateSiteSearches (20120625172514)
+Migrating to AddRawResultsToSiteSearch (20120625200307)
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  ALTER TABLE "site_search" ADD "raw_results" varchar(255)
+SQLite3::SQLException: no such table: site_search: ALTER TABLE "site_search" ADD "raw_results" varchar(255)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[36m (0.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateFeeds (20120127180820)
+Migrating to CreateSites (20120625171810)
+Migrating to CreateSiteSearches (20120625172514)
+Migrating to AddRawResultsToSiteSearch (20120625200307)
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (3.0ms)[0m  ALTER TABLE "site_searches" ADD "raw_results" varchar(255)
+  [1m[36m (0.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20120625200307')[0m
+  [1m[35m (52.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (0.0ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("feeds")[0m
+  [1m[35m (0.0ms)[0m  PRAGMA index_list("site_searches")
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("sites")[0m

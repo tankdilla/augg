@@ -1,0 +1,22 @@
+= form_for @site_search do |f|
+  -if @site_search.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@site_search.errors.count, "error")} prohibited this site_search from being saved:"
+      %ul
+        - @site_search.errors.full_messages.each do |msg|
+          %li= msg
+
+  .field
+    = f.label :site_id
+    = f.number_field :site_id
+  .field
+    = f.label :search_run_on
+    = f.datetime_select :search_run_on
+  .field
+    = f.label :number_of_results_requested
+    = f.number_field :number_of_results_requested
+  .field
+    = f.label :results_params
+    = f.text_field :results_params
+  .actions
+    = f.submit 'Save'
